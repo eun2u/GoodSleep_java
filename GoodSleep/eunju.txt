@@ -1,0 +1,6 @@
+1 7 T F T
+3 5  F F F
+4 8 T T T
+5 9 T F F
+6 7 F F F
+7 10 T T F
