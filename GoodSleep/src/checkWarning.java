@@ -5,6 +5,7 @@ public class checkWarning {
 	private int factor2;
 	private int factor3;
 	
+	
 	public checkWarning() {
 		
 		factor1=0;

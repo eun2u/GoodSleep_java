@@ -5,6 +5,7 @@ public class Info {
 	private int time;
 	private boolean factor1,factor2,factor3;
 	
+	
 	public Info() {
 		day=0;
 		time=0;

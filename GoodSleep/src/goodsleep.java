@@ -8,6 +8,7 @@ public class goodsleep {
 	public static void init() {
 
 		
+		
 		Scanner keyboard= new Scanner(System.in);
 	//	String FileName= keyboard.nextLine();
 

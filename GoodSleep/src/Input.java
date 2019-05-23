@@ -20,6 +20,7 @@ public class Input extends JFrame{
 	public Input() {
 	}
 
+	
 	private JPanel contentPane;
 	private JFrame frame;
 	static JCheckBox[] factors = new JCheckBox[3];

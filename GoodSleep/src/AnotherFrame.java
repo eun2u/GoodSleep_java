@@ -112,6 +112,7 @@ class DrawingPanel extends JPanel
 		this.fact1=fact1;
 		this.fact2=fact2;
 		this.fact3=fact3;
+		
 	}
 }
 
